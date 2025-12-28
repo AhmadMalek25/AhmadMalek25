@@ -40,7 +40,8 @@ Today, my focus is on **bridging automation and analytics** turning marketing da
 - Expense categorization & trend analysis
 - Personal finance insights using real-world data
 
-➡️ Repository: **automated-personal-finance-analysis**
+➡️ Repository: [automated-personal-finance-analysis](https://github.com/AhmadMalek25/automated-personal-finance-analysis)
+
 
 ---
 

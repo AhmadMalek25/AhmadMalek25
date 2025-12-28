@@ -51,7 +51,7 @@ Today, my focus is on **bridging automation and analytics** turning marketing da
 - SQL-based data exploration
 - Structured approach to building a data analyst skillset
 
-➡️ Repository: **DATA-ANALYST-PORTFOLIO**
+➡️ Repository: [DATA-ANALYST-PORTFOLIO](https://github.com/AhmadMalek25/DATA-ANALYST-PORTFOLIO)
 
 ---
 

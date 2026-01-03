@@ -4,7 +4,7 @@ I work at the intersection of **Marketing Automation, CRM, and Data Analytics**,
 
 I currently work with enterprise CRM and marketing data for automotive brands such as **BMW, MINI, and Motorrad**, focusing on campaign performance, customer behavior, and data-driven optimization.
 
-With a business background, I focus on the **“why” behind the data** using analytics not just to report numbers, but to improve customer strategies, optimize campaigns, and support smarter decision-making. After working extensively with **Adobe Campaign** and **Salesforce Marketing Cloud**, I transitioned deeper into **CRM data analytics**, leveraging **SQL, Python, and data visualization** to analyze customer behavior, engagement, and campaign performance.
+With a business background, I focus on the **“why” behind the data** using analytics not just to report numbers, but to improve customer strategies, optimize campaigns, and support smarter decision-making. After working extensively with **Adobe Campaign** and **Salesforce Marketing Cloud**, I transitioned deeper into **customer data analytics**, leveraging **SQL, Python, and data visualization** to analyze customer behavior, engagement, and campaign performance.
 
 Today, my focus is on **bridging automation and analytics** turning marketing data into actions that scale.
 
